@@ -33,6 +33,14 @@ To download a file, use the ``recv`` method::
 
 For more information, take a look at the documentation_.
 
+Source
+======
+
+The unit tests are intended to be executed with nose.  To run the full unit
+test suite, install nose and run: ::
+
+    # nosetests
+
 TODO
 ====
 
